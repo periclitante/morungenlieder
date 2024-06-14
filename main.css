@@ -17,9 +17,7 @@ h1{
 pre{
     font-family: 'Times New Roman', Times, serif;
     width: 300px;
-    margin: auto;
-    margin-bottom: 1px;
-    margin-top: 1px;
+    margin: 1px auto;
 }
 
 #textbox {
@@ -32,10 +30,8 @@ pre{
 }
 
 #paragraph {
-    margin-top: 25px;
-    margin-bottom: 25px;
-    margin-left: 150px;
-    margin-right: 150px;
+    width: 65%;
+    margin: 25px auto;
     text-align:justify;
 }
 
