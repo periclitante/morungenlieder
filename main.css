@@ -16,7 +16,8 @@ h1{
 
 pre{
     font-family: 'Times New Roman', Times, serif;
-    margin-left: 300px;
+    width: 300px;
+    margin: auto;
     margin-bottom: 1px;
     margin-top: 1px;
 }
